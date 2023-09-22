@@ -12,6 +12,7 @@ app.listen(PORT, ()=>{
 
 app.get('/users', async (req, res)=>{
     const users = await fsServices.reader();
+
     res.json({
         data: users,
     });
