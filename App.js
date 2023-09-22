@@ -1,6 +1,5 @@
 const express = require('express');
 const fsServices = require('./fs.services');
-const fs = require("fs");
 
 const app = express();
 app.use(express.json());
@@ -50,8 +49,6 @@ app.delete('/users/:id', async (req, res) => {
     }
 });
 
-
-;
 app.post('/users', async (req, res)=>{
     try{
         const {name, age, email} = req.body;
