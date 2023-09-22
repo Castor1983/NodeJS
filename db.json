@@ -1,12 +1,1 @@
-[
-  { "id": 1, "name": "Іван", "age":11, "email": "ivan@example.com" },
-  { "id": 2, "name": "Марія", "age":15, "email": "maria@example.com" },
-  { "id": 3, "name": "Петро", "age":22, "email": "petro@example.com" },
-  { "id": 4, "name": "Ольга", "age":33, "email": "olga@example.com" },
-  { "id": 5, "name": "Андрій", "age":41, "email": "andriy@example.com" },
-  { "id": 6, "name": "Наталія", "age":54, "email": "natalia@example.com" },
-  { "id": 7, "name": "Максим", "age":61, "email": "maxim@example.com" },
-  { "id": 8, "name": "Софія", "age":18, "email": "sofia@example.com" },
-  { "id": 9, "name": "Анна", "age":19, "email": "anna@example.com" },
-  { "id": 10, "name": "Олександр", "age":38, "email": "oleksandr@example.com" }
-]
+[{"id":1,"name":"Іван","age":11,"email":"ivan@example.com"},{"id":3,"name":"Lev","age":22,"email":"lev@example.com"},{"id":4,"name":"Lev","age":33,"email":"lev@example.com"},{"id":5,"name":"Lev","age":1,"email":"lev@example.com"},{"id":6,"name":"Lev","age":1,"email":"lev@example.com"},{"id":7,"name":"Lev","age":1,"email":"lev@example.com"},{"id":8,"name":"Софія","age":18,"email":"sofia@example.com"},{"id":9,"name":"Lev","age":1,"email":"lev@example.com"},{"id":10,"name":"Олександр","age":38,"email":"oleksandr@example.com"},{"id":11,"name":"Олександр","age":44,"email":"oleksandr44@example.com"},{"id":12,"name":"Олександр","age":55,"email":"oleksandr55@example.com"},{"id":13,"name":"Олександр","age":66,"email":"oleksandr66@example.com"},{"id":14,"name":"Іван","age":11,"email":"ivane@xample.com"}]
