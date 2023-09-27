@@ -1,7 +1,7 @@
-import { Document } from 'mongoose'
-import { EGenders } from "../enums/gender.enum";
+import {Document} from 'mongoose'
+import {EGenders} from "../enums/gender.enum";
 
-export interface IUser extends Document{
+export interface IUser extends Document {
 
     name?: string;
     age?: number;
