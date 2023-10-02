@@ -52,7 +52,7 @@ app.put('/users/:id', async (req, res) => {
     try {
         const {id} = req.params;
         const user = await User.findByIdAndUpdate(id, req.body);
-        await res.status(201).json(user);
+        res.status(201).json(user);
         ;
     } catch (e) {
         res.status(404).json(e.message)
