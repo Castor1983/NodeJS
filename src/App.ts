@@ -2,8 +2,6 @@ import express, {Request, Response} from 'express';
 import * as mongoose from 'mongoose';
 import {configs} from './configs/config'
 
-// @ts-ignore
-import * as fsServices from './fs.services';
 import {User} from './models/User.model';
 import {IUser} from './types/user.type'
 
